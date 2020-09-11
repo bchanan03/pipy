@@ -1,0 +1,2 @@
+class MissingPackage(Exception):
+    pass
